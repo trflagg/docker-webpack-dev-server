@@ -1,4 +1,4 @@
-FROM node:8.1
+FROM node:9.9.0
 
 RUN npm install -g webpack-dev-server
 
